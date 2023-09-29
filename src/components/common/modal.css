@@ -1,0 +1,12 @@
+.modal {
+
+  border: 2px solid rgb(240, 240, 240);
+  border-radius: 12px;
+  position: absolute;
+  width: auto;
+  top: 70px;
+  left: calc(50% - 125px);
+  bottom: auto;
+  padding: 20px;
+  background-color: grey;
+}
